@@ -1,0 +1,18 @@
+[
+  {
+    "title": "austin-app",
+    "imageSrc": "projects/project1.png",
+    "description": "An app for entrepreneurs to monitor sales, expenses, and get accurate forecasts from data analysis.",
+    "skills": ["React", "Firebase"],
+    "demo": "https://nokap-austin.web.app/",
+    "source": "https://github.com/allenbayoneta/austin-app"
+  },
+  {
+    "title": "Mechatronic Solid Waste Segregation System",
+    "imageSrc": "projects/project.png",
+    "description": "A smart system designed to automatically segregate solid waste using mechatronics and computer vision.",
+    "skills": ["Python", "Arduino", "Raspberry Pi", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

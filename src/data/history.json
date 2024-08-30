@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Technological Institute of the Philippines",
+    "organisation": "Philippines",
+    "startDate": "August, 2020",
+    "endDate": "August, 2024",
+    "experiences": ["Contributed in Mechatronic Systems", "Deployed Web and Mobile Projects"],
+    "imageSrc": "history/tip.png"
+  },
+  {
+    "role": "8Box Solutions",
+    "organisation": "Web Development Company",
+    "startDate": "April, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Worked on Zagana", "Worked on Laro App"],
+    "imageSrc": "history/8box.png"
+  }
+]
